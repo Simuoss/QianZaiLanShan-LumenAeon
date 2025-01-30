@@ -1,6 +1,5 @@
 # 千载阑珊 —— 多模态文言古诗文映射系统
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## 项目概述
 **"寂然凝虑，思接千载；悄焉动容，视通万里。"**  ——  刘勰《文心雕龙·神思》  
